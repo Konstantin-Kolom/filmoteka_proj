@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dzhafarovm.github.io/filmoteka",
+  "homepage": "https://Konstantin-Kolom.github.io/filmoteka_proj",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka_proj/"
   },
   "repository": {
     "type": "git",
